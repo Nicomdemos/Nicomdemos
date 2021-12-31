@@ -14,13 +14,13 @@
 <b>Pronome:</b> Ele/Dele
 </li>
 <li>
-<b>Amores:</b> Minha namorada,Jogos e programar
+<b>Amores:</b> Minha namorada, jogos e programar
 </li>
 <li>
 <b>Gênero:</b> Masculino
 </li>
 <li>
-<b>Hobbys:</b> Coisas de tecnologia, Design gráfico, Desenvolvimento Web
+<b>Hobbys:</b> Coisas de tecnologia, Design Gráfico, Desenvolvimento Web
 </li>
 <li>
 <b>Trabalho @:</b> Freelancer | Shumatsu Design
