@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @Nicomdemos
+- 👋 Olá, eu sou o Wallyson Schumacher
 - 👀 Estou interessado em programar e aprender com os open source
 - 🌱 No momento estou aprendendo HTML, CSS e JS
 - 📫 Para entrar em contato comigo mande um email: WallysonSchumacherr@gmail.com
