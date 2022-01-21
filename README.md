@@ -30,14 +30,15 @@
                   Você é demais!</b></p>
 </div>
 <div>
-<h2 align="left">            ~ 📇 Conhecimentos 📇 ~</h2>
+  <br>
+<h2 align="center"> ~ 📇 Conhecimentos 📇 ~</h2>
 <p>
-<img src="https://i.kym-cdn.com/photos/images/original/001/551/115/30a.gif" align="right" width="373.5px" height="208.5px">
+
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"<br></p>
 <br>
-<h2>           📝 ~ Entre em contato ~ 📝</h2>
+<h2 align="center"> 📝 ~ Entre em contato ~ 📝</h2>
 
 <br>
 <p align="center">Aqui estão os <br>
