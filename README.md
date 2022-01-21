@@ -11,10 +11,10 @@
 <li>
 <b>Nome:</b>Wallyson Schumacher</li>
 <li>
-<b>Pronome:</b> Ele/Dele
+<b>Curso:</b> Analise e desenvolvimento de sistemas
 </li>
 <li>
-<b>Amores:</b> Minha namorada, jogos e programar
+<b>Paixões:</b> Programar, desenvolver e jogar
 </li>
 <li>
 <b>Gênero:</b> Masculino
